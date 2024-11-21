@@ -2,8 +2,8 @@
 
 This project is designed to provide an efficient admin panel for managing users and data seamlessly.
 
-🌟 Live Demo
-Check out the live demo of the application [HERE!](https://admin-dashboard-frontend-t4o4.onrender.com/)
+<h2>🖥 Live Demo</h2>
+<p>Explore the app live: <a href="https://admin-dashboard-frontend-t4o4.onrender.com">Admin_Dashboard on Render</a></p>
 
 ## 🚀 Technologies and Libraries Used
 
